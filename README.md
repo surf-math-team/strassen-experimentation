@@ -18,4 +18,4 @@ Now, visit [this link](https://pypi.org/project/TensorToolbox/) and follow the r
 
 ## Why Strassen?
 
-Strassen's algorithm was the first algorithm that showed matrix multiplication can be performed in faster than $O(n^3)$, and spurred the development of the entire field of research in matrix multiplication optimization. It's simple to understand by even the most uniformed reader, yet complicated enough to provide a moderate introductory challenge.
+Strassen's algorithm was the first algorithm that showed matrix multiplication can be performed in faster than <a href="https://www.codecogs.com/eqnedit.php?latex=O(n^3)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?O(n^3)" title="O(n^3)" /></a>, and spurred the development of the entire field of research in matrix multiplication optimization. It's simple to understand by even the most uniformed reader, yet complicated enough to provide a moderate introductory challenge.
